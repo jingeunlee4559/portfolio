@@ -56,15 +56,16 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [자연어처리 기반 2030 남성들을 위한 신발 리뷰 분석 플랫폼](https://github.com/illhanunjung/ReadFi)
+>자연어처리 기반 2030 남성들을 위한 신발 리뷰 분석 플랫폼  (팀 프로젝트)  
+>개발 기간: 2024.3.12 ~ 2024.4.15  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 17 / Spring Boot / Maven / Python /Flask  
+>HTML / CSS / Javascript / Jsoup / React / Ajax  
+> Kakao Login API / Naver Clova API
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit) 참고
 
 ---
 
