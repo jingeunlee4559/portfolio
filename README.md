@@ -38,7 +38,7 @@
 ## :pushpin: Contact
 - 이메일: wlsrms4559@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/jingeunlee4559
 
 </br>
 
