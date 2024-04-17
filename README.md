@@ -93,8 +93,7 @@
 >
 >나의 역할: 프론튼엔드,백엔드 
 >
->기술 스택:  
->Javascript / KAKAOMAP API / HTML / CSS / Figma
+>기술 스택: Javascript / KAKAOMAP API / HTML / CSS / Figma
 >  
 >[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/SSG) 참고
 
