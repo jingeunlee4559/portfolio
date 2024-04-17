@@ -75,7 +75,7 @@
 >기술 스택:  
 >Java 17 / Spring Boot / Maven / Python /Flask  
 >HTML / CSS / Javascript / Jsoup / React / Ajax  
-> Kakao Login API / Naver Clova API /Figma
+> Kakao Login API / Naver Clova API /Figma / React
 >  
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit) 참고
 
@@ -93,7 +93,7 @@
 >
 >나의 역할: 프론튼엔드,백엔드 
 >
->기술 스택: Javascript / KAKAOMAP API / HTML / CSS / Figma
+>기술 스택: Javascript / KAKAOMAP API / HTML / CSS / Figma / React
 >  
 >[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/SSG) 참고
 
@@ -108,7 +108,7 @@
 >
 >나의 역할: 프론튼엔드,백엔드
 > 
->기술 스택:Javascript / KAKAOMAP API / HTML / CSS 
+>기술 스택:Javascript / KAKAOMAP API / HTML / CSS / React
 >  
 >[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/Camomile) 참고
 
