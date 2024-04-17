@@ -99,3 +99,7 @@
 >Javascript / KAKAOMAP API / HTML / CSS 
 >  
 >[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/Camomile) 참고
+
+## :pushpin: 교육과정
+- 스마트인재개발원 빅데이터 융합서비스 개발자 과저ㅏㅇ (22.08~ 23.03 8개월)
+- 스마트인재개발원 언어지능기반 분석 서비스모델 개발자과정 (23.9.27 ~ 24.4.17 7개월)
