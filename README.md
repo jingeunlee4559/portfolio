@@ -48,9 +48,9 @@
 >개발 기간: 2023.12.18 ~ 2024.01.24 
 >  
 >기술 스택:  
->Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5  
->Maven / WebSocket / FullCalendar API / KAKAO MAP API 
-> JavaScript / Html / CSS / JSP 
+>Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5/  
+>Maven / WebSocket / FullCalendar API / KAKAOMAP API/
+>JavaScript / Html / CSS / JSP 
 > 
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
