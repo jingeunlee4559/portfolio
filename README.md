@@ -102,12 +102,13 @@
 ### 4. [카페 좌석 예약 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/Camomile)
 >카페 좌석 예약 웹 서비스 개발 프로젝트 (팀 프로젝트)
 >
+>프로젝트 개발 성과 :핵심프로젝트 우수상
+>
 >개발 기간: 2022.10.01 ~ 2022.11.07  
 >
 >나의 역할: 프론튼엔드,백엔드
 > 
->기술 스택:  
->Javascript / KAKAOMAP API / HTML / CSS 
+>기술 스택:Javascript / KAKAOMAP API / HTML / CSS 
 >  
 >[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/Camomile) 참고
 
