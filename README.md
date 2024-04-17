@@ -80,6 +80,7 @@
 >  
 >[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/SSG) 참고
 
+---
 
 ### 4. [카페 좌석 예약 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/Camomile)
 >카페 좌석 예약 웹 서비스 개발 프로젝트 (팀 프로젝트) 
