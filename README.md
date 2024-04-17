@@ -50,7 +50,7 @@
 >기술 스택:  
 >Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5/  
 >Maven / WebSocket / FullCalendar API / KAKAOMAP API/
->JavaScript / Html / CSS / JSP 
+>JavaScript / Html / CSS / JSP / Figam
 > 
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
@@ -63,18 +63,17 @@
 >기술 스택:  
 >Java 17 / Spring Boot / Maven / Python /Flask  
 >HTML / CSS / Javascript / Jsoup / React / Ajax  
-> Kakao Login API / Naver Clova API
+> Kakao Login API / Naver Clova API /Figma
 >  
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit) 참고
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 3. [머신 러닝 기반  AI신호등 관리자 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/SSG)
+>AI신호등 관리자 WEB페이지 입니다. 메인화면에서의 지도는 카카오API를 발급받아 진행했습니다. DB에 저장된 신호등의 위도 경도값을 계산하여 메인페이지에 마커로 표시 표시된 마커를 클릭시 오버레이로 신호등의 이름과 DB에 저장된 로드뷰 사진 출력 오른쪽 리스트뷰에서는 클릭한 신호등의 정보 표시 리스트뷰에 클릭시 해당 신호등 정보 페이지로 이동하고 관련된 값이 출력 AI모드 on/off에 따라 마커 모양 전환 (팀 프로젝트) 
+>개발 기간: 2023.01.03 ~ 2023.2.15  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Javascript / KAKAOMAP API / HTML / CSS / Figma
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/SSG) 참고
