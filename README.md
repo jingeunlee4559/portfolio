@@ -77,7 +77,8 @@
 >HTML / CSS / Javascript / Jsoup / React / Ajax  
 > Kakao Login API / Naver Clova API /Figma / React
 >  
->[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit) 참고
+>[백엔드](https://github.com/illhanunjung/ReadFit) 
+>[프론트엔드](https://github.com/illhanunjung/ReadFit-frontend)
 
 ---
 ### 3. [머신 러닝 기반  AI신호등 관리자 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/SSG)
