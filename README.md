@@ -43,7 +43,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
+### 1. [첫번째 프로젝트](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
 >사용자 성향 조사 데이터를 활용한 혼행족을 겨냥한 여행 동행자 추천 서비스 (팀 프로젝트)  
 >개발 기간: 2023.12.18 ~ 2024.01.24 
 >  
