@@ -13,10 +13,8 @@
 
 ## :pushpin: FRONT-END
 
-![다운로드](https://github.com/jingeunlee4559/portfolio/assets/112059084/0fd5bb86-3f83-42e8-b523-9074d48aa282)
-![다운로드 (1)](https://github.com/jingeunlee4559/portfolio/assets/112059084/fb33d330-bb43-4b0b-9a7c-e7be5f652045)
-![다운로드 (2)](https://github.com/jingeunlee4559/portfolio/assets/112059084/668049fd-0bca-45d7-9c84-e8f29ea2b5fc)
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css&logoColor=white"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=purple"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 
 ## :pushpin: Contact
 - 이메일: wjdgud9420@gmail.com
