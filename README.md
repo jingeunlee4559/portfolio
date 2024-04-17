@@ -46,7 +46,8 @@
 ### 1. [사용자 성향 조사 데이터를 활용한 혼행족을 겨냥한 여행 동행자 추천 서비스](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
 >사용자 성향 조사 데이터를 활용한 혼행족을 겨냥한 여행 동행자 추천 서비스 (팀 프로젝트)  
 >개발 기간: 2023.12.18 ~ 2024.01.24 
->  
+>
+>나의 역할 : 프론트엔드,백엔드
 >기술 스택:  
 >Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5/  
 >Maven / WebSocket / FullCalendar API / KAKAOMAP API/
@@ -59,7 +60,8 @@
 ### 2. [자연어처리 기반 2030 남성들을 위한 신발 리뷰 분석 플랫폼](https://github.com/illhanunjung/ReadFi)
 >자연어처리 기반 2030 남성들을 위한 신발 리뷰 분석 플랫폼  (팀 프로젝트)  
 >개발 기간: 2024.3.12 ~ 2024.4.15  
->  
+>
+>나의 역할: 프론트엔드,백엔드 
 >기술 스택:  
 >Java 17 / Spring Boot / Maven / Python /Flask  
 >HTML / CSS / Javascript / Jsoup / React / Ajax  
@@ -69,11 +71,12 @@
 
 ---
 
-### 3. [머신 러닝 기반  AI신호등 관리자 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/SSG)
->AI신호등 관리자 WEB페이지 입니다. 메인화면에서의 지도는 카카오API를 발급받아 진행했습니다. DB에 저장된 신호등의 위도 경도값을 계산하여 메인페이지에 마커로 표시 표시된 마커를 클릭시 오버레이로 신호등의 이름과 DB에 저장된 로드뷰 사진 출력 오른쪽 리스트뷰에서는 클릭한 신호등의 정보 표시 리스트뷰에 클릭시 해당 신호등 정보 페이지로 이동하고 관련된 값이 출력 AI모드 on/off에 따라 마커 모양 전환 (팀 프로젝트) 
->개발 기간: 2023.01.03 ~ 2023.2.15  
->  
+### 4. [카페 좌석 예약 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/Camomile)
+>카페 좌석 예약 웹 서비스 개발 프로젝트 (팀 프로젝트) 
+>개발 기간: 2022.10.01 ~ 2022.11.07  
+>
+>나의 역할: 프론튼엔드,백엔드 
 >기술 스택:  
->Javascript / KAKAOMAP API / HTML / CSS / Figma
+>Javascript / KAKAOMAP API / HTML / CSS 
 >  
->[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/SSG) 참고
+>[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/Camomile) 참고
