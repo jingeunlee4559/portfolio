@@ -70,6 +70,16 @@
 >[프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit) 참고
 
 ---
+### 3. [머신 러닝 기반  AI신호등 관리자 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/SSG)
+>머신 러닝 기반  AI신호등 관리자 웹 서비스 개발 프로젝트 (팀 프로젝트) 
+>개발 기간: 2023.01.01 ~ 2023.02.13  
+>
+>나의 역할: 프론튼엔드,백엔드 
+>기술 스택:  
+>Javascript / KAKAOMAP API / HTML / CSS / Figma
+>  
+>[프로젝트 상세 설명](https://github.com/2022-SMHRD-SW-BigData-1/SSG) 참고
+
 
 ### 4. [카페 좌석 예약 웹 서비스 개발 프로젝트](https://github.com/2022-SMHRD-SW-BigData-1/Camomile)
 >카페 좌석 예약 웹 서비스 개발 프로젝트 (팀 프로젝트) 
