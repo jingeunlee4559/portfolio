@@ -48,6 +48,7 @@
 >개발 기간: 2023.12.18 ~ 2024.01.24 
 >
 >나의 역할 : 프론트엔드,백엔드
+>
 >기술 스택:  
 >Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5/  
 >Maven / WebSocket / FullCalendar API / KAKAOMAP API/
@@ -62,6 +63,7 @@
 >개발 기간: 2024.3.12 ~ 2024.4.15  
 >
 >나의 역할: 프론트엔드,백엔드 
+>
 >기술 스택:  
 >Java 17 / Spring Boot / Maven / Python /Flask  
 >HTML / CSS / Javascript / Jsoup / React / Ajax  
@@ -75,6 +77,7 @@
 >개발 기간: 2023.01.01 ~ 2023.02.13  
 >
 >나의 역할: 프론튼엔드,백엔드 
+>
 >기술 스택:  
 >Javascript / KAKAOMAP API / HTML / CSS / Figma
 >  
@@ -86,7 +89,8 @@
 >카페 좌석 예약 웹 서비스 개발 프로젝트 (팀 프로젝트) 
 >개발 기간: 2022.10.01 ~ 2022.11.07  
 >
->나의 역할: 프론튼엔드,백엔드 
+>나의 역할: 프론튼엔드,백엔드
+> 
 >기술 스택:  
 >Javascript / KAKAOMAP API / HTML / CSS 
 >  
