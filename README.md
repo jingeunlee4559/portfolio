@@ -44,12 +44,12 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>사용자 성향 조사 데이터를 활용한 혼행족을 겨냥한 여행 동행자 추천 서비스 (팀 프로젝트)  
+>개발 기간: 2023.12.18 ~ 2024.01.24 
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 11 / Spring / MySQL 5.1 / Python 3.9 / Apache Tomcat 8.5  
+>Maven / WebSocket / FullCalendar API / KAKAO MAP API / JavaScript / Html / CSS / JSP 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
