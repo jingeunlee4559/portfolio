@@ -1,44 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2F8CFF,50:5A6CFF,100:8B5CF6&height=270&section=header&text=Jin%20Geun%20Lee&fontSize=66&fontColor=ffffff&fontAlignY=40&desc=이진근%20·%20Full-Stack%20%26%20AI%20Service%20Developer&descSize=20&descAlignY=64&animation=fadeIn" width="100%"/>
-
-<a href="https://myportfolio-steel-delta.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=780&height=50&lines=문제를+정의하고%2C+구조로+해결하는+개발자;화면에서+API%2C+AI+연동까지+끝까지+책임집니다;전기공학에서+풀스택으로%2C+계속+성장하는+중입니다" alt="intro"/>
-</a>
+<img src="assets/banner.svg" width="100%" alt="Jin Geun Lee · Full-Stack & AI Service Developer"/>
 
 <br/>
 
-<a href="https://myportfolio-steel-delta.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-2F8CFF?style=for-the-badge"/></a>
-<a href="https://github.com/jingeunlee4559"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:wlsrms4559@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://myportfolio-steel-delta.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-2F8CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/jingeunlee4559"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:wlsrms4559@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="170"><h1>8</h1><sub><b>TEAM PROJECTS</b></sub></td>
-    <td align="center" width="170"><h1>5</h1><sub><b>AWARDS</b></sub></td>
-    <td align="center" width="170"><h1>4</h1><sub><b>BOOTCAMPS</b></sub></td>
-    <td align="center" width="170"><h1>70%</h1><sub><b>MAIN PROJECT<br/>CONTRIBUTION</b></sub></td>
-  </tr>
-</table>
+<img src="assets/stats.svg" width="100%" alt="8 team projects · 5 awards · 4 bootcamps · 70% contribution"/>
 
 <sub>
-<a href="#-about">ABOUT</a> &nbsp;·&nbsp;
-<a href="#-skills">SKILLS</a> &nbsp;·&nbsp;
-<a href="#-featured-project">FEATURED</a> &nbsp;·&nbsp;
-<a href="#-projects">PROJECTS</a> &nbsp;·&nbsp;
-<a href="#-awards">AWARDS</a> &nbsp;·&nbsp;
-<a href="#-education">EDUCATION</a>
+<a href="#-about"><b>ABOUT</b></a> &nbsp;·&nbsp;
+<a href="#-skills"><b>SKILLS</b></a> &nbsp;·&nbsp;
+<a href="#-featured-project"><b>FEATURED</b></a> &nbsp;·&nbsp;
+<a href="#-projects"><b>PROJECTS</b></a> &nbsp;·&nbsp;
+<a href="#-awards"><b>AWARDS</b></a> &nbsp;·&nbsp;
+<a href="#-education"><b>EDUCATION</b></a>
 </sub>
 
 </div>
 
 <br/>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## 👋 About
 
-전기공학을 전공한 뒤 개발자로 방향을 바꿨습니다. 빅데이터 · 언어지능 · 풀스택 · AI서비스개발 과정을 거치며 **React 화면부터 Spring Boot · Node.js REST API, FastAPI 기반 AI 연동**까지 직접 만들어 왔습니다.
+전기공학을 전공한 뒤 개발자로 방향을 바꿨습니다.
+빅데이터 · 언어지능 · 풀스택 · AI서비스개발 과정을 거치며 **React 화면부터 Spring Boot · Node.js REST API, FastAPI 기반 AI 연동**까지 직접 만들어 왔습니다.
 
 > [!NOTE]
 > **개발 가치관** — 작은 기능 하나에도 사용자 경험을 먼저 생각합니다. "일단 돌아가게"보다 "나중에 봐도 읽히는 코드"를, 빠른 임시 해결보다 **원인 추적과 재발 방지**를 선택합니다.
@@ -47,17 +39,17 @@
   <tr>
     <td width="33%" valign="top" align="center">
       <h3>🧩</h3>
-      <b>서비스 구조 설계</b><br/>
+      <b>서비스 구조 설계</b><br/><br/>
       <sub>기능 간 연결 흐름과 상태 변화에 따른 UI 처리를 먼저 그린 뒤 구현합니다</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🔌</h3>
-      <b>API 설계 · 연동</b><br/>
+      <b>API 설계 · 연동</b><br/><br/>
       <sub>화면과 서버를 자연스럽게 잇는 REST API 구조를 설계합니다</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🔍</h3>
-      <b>문제 해결 · 디버깅</b><br/>
+      <b>문제 해결 · 디버깅</b><br/><br/>
       <sub>로그와 데이터 흐름을 따라 원인을 추적하고 구조로 해결합니다</sub>
     </td>
   </tr>
@@ -65,21 +57,68 @@
 
 <br/>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## 🛠 Skills
 
-<div align="center">
-
-| | |
-| :-: | :-- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,bootstrap,flutter&perline=8"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,java,py&perline=8"/> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,oracle&perline=8"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,notion,slack&perline=8"/> |
-| **Integration** | `LiveKit` · `WebSocket` · `OneSignal` · `Kakao Map` · `Chart.js` · `FullCalendar` |
-
-</div>
+<table>
+  <tr>
+    <td width="130" align="center"><b>Frontend</b></td>
+    <td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Integration</b></td>
+    <td>
+<img src="https://img.shields.io/badge/LiveKit-111827?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit"/>
+<img src="https://img.shields.io/badge/WebSocket-0F172A?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket"/>
+<img src="https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white" alt="OneSignal"/>
+<img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black" alt="Kakao Map"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+<img src="https://img.shields.io/badge/FullCalendar-2C3E50?style=flat-square&logo=googlecalendar&logoColor=white" alt="FullCalendar"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ⭐ Featured Project
 
@@ -88,10 +127,10 @@
 ### 🎥 Talaria
 **두 세계를 잇는 실시간 AI 번역 화상회의 플랫폼**
 
-![Award](https://img.shields.io/badge/🏆_2025_실전프로젝트-우수상-F59E0B?style=flat-square)
-![Period](https://img.shields.io/badge/2025.10_–_12-3인_개발-2F8CFF?style=flat-square)
-![Role](https://img.shields.io/badge/프론트엔드_전담-UI/UX_총괄-8B5CF6?style=flat-square)
-![Contribution](https://img.shields.io/badge/기여도-70%25-10B981?style=flat-square)
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_2025_%EC%8B%A4%EC%A0%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B0%EC%88%98%EC%83%81-F59E0B?style=for-the-badge" alt="award"/>
+<img src="https://img.shields.io/badge/2025.10_%E2%80%93_12-3%EC%9D%B8_%EA%B0%9C%EB%B0%9C-2F8CFF?style=for-the-badge" alt="period"/>
+<img src="https://img.shields.io/badge/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C_%EC%A0%84%EB%8B%B4-UI%2FUX_%EC%B4%9D%EA%B4%84-8B5CF6?style=for-the-badge" alt="role"/>
+<img src="https://img.shields.io/badge/%EA%B8%B0%EC%97%AC%EB%8F%84-70%25-10B981?style=for-the-badge" alt="contribution"/>
 
 </div>
 
@@ -103,7 +142,7 @@
 </p>
 -->
 
-> 비즈니스 미팅과 K-컬처 라이브를 하나의 플랫폼에서. 실시간 번역에 **문화 맥락(밈·신조어·분위기)** 까지 전달하기 위해, 비즈니스 모드와 문화 모드를 분리한 **이중 경험 구조**로 설계했습니다.
+> 비즈니스 미팅과 K-컬처 라이브를 하나의 플랫폼에서. 실시간 번역에 **문화 맥락(밈 · 신조어 · 분위기)** 까지 전달하기 위해, 비즈니스 모드와 문화 모드를 분리한 **이중 경험 구조**로 설계했습니다.
 
 ```mermaid
 flowchart LR
@@ -113,21 +152,21 @@ flowchart LR
     D --> E[UI 오버레이]
     E --> F([🔄 참가자 상태 동기화])
     classDef main fill:#2F8CFF,stroke:#2F8CFF,color:#fff
-    classDef end1 fill:#8B5CF6,stroke:#8B5CF6,color:#fff
+    classDef edge fill:#8B5CF6,stroke:#8B5CF6,color:#fff
     class B,C,D,E main
-    class A,F end1
+    class A,F edge
 ```
 
-| | |
+| 구분 | 기술 |
 | :-- | :-- |
 | 🧰 **Frontend** | `React` `Vite` `Tailwind CSS` `LiveKit` `Axios` `Context API` `SweetAlert2` |
 | 🧰 **Backend** | `Spring Boot` `MySQL` `FastAPI` (Papago STT) |
 
 **담당 기능**
 
-| 🖥 화상회의 | 🎨 문화·밈 UI | 📄 대시보드 · 문서 |
+| 🖥 화상회의 | 🎨 문화 · 밈 UI | 📄 대시보드 · 문서 |
 | :-- | :-- | :-- |
-| 참가자 자동 배치 커스텀 그리드<br/>실시간 STT 번역 자막 오버레이<br/>매너 체크·문서·채팅 사이드바 | 테마별 배경 이펙트<br/>신조어·밈 실시간 하이라이팅<br/>이모지·임팩트 효과, 모바일 최적화 | FullCalendar 일정 관리<br/>원문·번역본 대조 PDF 뷰어<br/>Drag & Drop 업로드 |
+| 참가자 자동 배치 커스텀 그리드<br/>실시간 STT 번역 자막 오버레이<br/>매너 체크 · 문서 · 채팅 사이드바 | 테마별 배경 이펙트<br/>신조어 · 밈 실시간 하이라이팅<br/>이모지 · 임팩트 효과, 모바일 최적화 | FullCalendar 일정 관리<br/>원문 · 번역본 대조 PDF 뷰어<br/>Drag & Drop 업로드 |
 
 **🧯 Troubleshooting — 참가자 간 상태 동기화**
 
@@ -141,22 +180,26 @@ flowchart LR
 
 <div align="center">
 
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/jingeunlee4559/talaria-frontend)
-[![Backend](https://img.shields.io/badge/Backend-Repo-181717?style=for-the-badge&logo=github)](https://github.com/jingeunlee4559/talaria-backend-)
-[![AI](https://img.shields.io/badge/AI-Repo-181717?style=for-the-badge&logo=github)](https://github.com/jingeunlee4559/talaria-ai)
+<a href="https://github.com/jingeunlee4559/talaria-frontend"><img src="https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github" alt="frontend"/></a>
+<a href="https://github.com/jingeunlee4559/talaria-backend-"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github" alt="backend"/></a>
+<a href="https://github.com/jingeunlee4559/talaria-ai"><img src="https://img.shields.io/badge/AI_Repo-181717?style=for-the-badge&logo=github" alt="ai"/></a>
 
 </div>
 
 <br/>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## 📂 Projects
+
+> 프로젝트를 클릭하면 상세 내용이 펼쳐집니다 👇
 
 <details>
 <summary><b>🚨 Ask-Me</b> · YOLOv11 기반 실시간 흉기 소지자 알림 &nbsp;<code>2024.10 – 11 · 6인</code></summary>
 
 <br/>
 
-> CCTV 영상에서 흉기를 감지하고 관리자·경비원·일반 사용자에게 **위치 정보와 함께 즉시 알림**을 전달합니다.
+> CCTV 영상에서 흉기를 감지하고 관리자 · 경비원 · 일반 사용자에게 **위치 정보와 함께 즉시 알림**을 전달합니다.
 
 ```mermaid
 flowchart LR
@@ -169,21 +212,21 @@ flowchart LR
     class B,C,D main
 ```
 
-| | |
+| 구분 | 내용 |
 | :-- | :-- |
-| 🎯 **역할** | **웹·앱 프론트엔드, 백엔드, UI/UX** (기여도 70%, YOLOv11 모델은 팀원 담당) |
+| 🎯 **역할** | **웹 · 앱 프론트엔드, 백엔드, UI/UX** (기여도 70%, YOLOv11 모델은 팀원 담당) |
 | 🧰 **Stack** | `React` `Flutter` `Bootstrap` · `Node.js` `WebSocket` `MySQL` `FastAPI` · `OneSignal` `Kakao Map` |
 
-- 🛡 **시스템 관리자** — 통계 대시보드, 회원·커뮤니티 관리, 알림 내역
-- 📹 **보안 관리자** — CCTV 감지 모니터링(알림창·트래킹 모드), 감지 이미지·녹화 영상 상세
-- 🗺 **Kakao Map** — 반경 2km 흉기 경보, 인근 경찰서·병원 표시
-- 📱 **Flutter 앱** — 위치 서비스, 알림 내역, 커뮤니티(좋아요·신고), WebSocket + OneSignal 푸시
+- 🛡 **시스템 관리자** — 통계 대시보드, 회원 · 커뮤니티 관리, 알림 내역
+- 📹 **보안 관리자** — CCTV 감지 모니터링(알림창 · 트래킹 모드), 감지 이미지 · 녹화 영상 상세
+- 🗺 **Kakao Map** — 반경 2km 흉기 경보, 인근 경찰서 · 병원 표시
+- 📱 **Flutter 앱** — 위치 서비스, 알림 내역, 커뮤니티(좋아요 · 신고), WebSocket + OneSignal 푸시
 
 > [!WARNING]
 > **문제 · 원인** &nbsp; HTTP 환경에서 푸시 알림이 동작하지 않음 — OneSignal이 보안 정책상 **HTTPS를 요구**
 
 > [!TIP]
-> **해결 · 결과** &nbsp; OpenSSL로 HTTPS 인증서를 생성·적용해 웹–모바일 간 실시간 알림 연동 완성
+> **해결 · 결과** &nbsp; OpenSSL로 HTTPS 인증서를 생성 · 적용해 웹–모바일 간 실시간 알림 연동 완성
 
 🔗 [Web · Backend](https://github.com/Kim-Ji-Man/Ask-Me) · [Flutter App](https://github.com/Kim-Ji-Man/Ask-Me/tree/flutter_askme)
 
@@ -194,24 +237,24 @@ flowchart LR
 
 <br/>
 
-> 광주 지역 결혼 예정자의 조건(지역·날짜·예산)으로 웨딩홀·스드메 조합을 추천합니다. 복잡한 준비 과정을 **단계형 입력 흐름**으로 단순화했습니다.
+> 광주 지역 결혼 예정자의 조건(지역 · 날짜 · 예산)으로 웨딩홀 · 스드메 조합을 추천합니다. 복잡한 준비 과정을 **단계형 입력 흐름**으로 단순화했습니다.
 
 ```mermaid
 flowchart LR
     A([⌨ 조건 입력]) --> B[추천 조건 정리]
     B --> C[유사도 기반 추천]
     C --> D[결과 반환]
-    D --> E([📅 일정·상세 연결])
+    D --> E([📅 일정 · 상세 연결])
     classDef main fill:#EC4899,stroke:#EC4899,color:#fff
     class B,C,D main
 ```
 
-| | |
+| 구분 | 내용 |
 | :-- | :-- |
 | 🎯 **역할** | **UI/UX, 프론트엔드, 백엔드 API 구조 설계, FastAPI 연동** (기여도 70%) |
 | 🧰 **Stack** | `React` `Bootstrap` `Figma` · `Node.js` `MySQL` `FastAPI` · `Kakao Map` `OpenWeather` `FullCalendar` |
 
-- Figma 설계 기반 반응형 웹 (메인·로그인·캘린더·웨딩플랜·상세·마이페이지)
+- Figma 설계 기반 반응형 웹 (메인 · 로그인 · 캘린더 · 웨딩플랜 · 상세 · 마이페이지)
 - 단계별 조건 입력 UI, 유사도 기반 추천 결과 화면
 - Kakao Map 위치 마커, 일정 캘린더 날씨 표시
 
@@ -230,25 +273,25 @@ flowchart LR
 
 <br/>
 
-> 2030 남성 대상 신발 리뷰를 **키워드·감성 분석**해, 읽지 않고도 핵심을 파악하는 대시보드를 제공합니다.
+> 2030 남성 대상 신발 리뷰를 **키워드 · 감성 분석**해, 읽지 않고도 핵심을 파악하는 대시보드를 제공합니다.
 
 ```mermaid
 flowchart LR
     A([💬 리뷰 입력]) --> B[전처리]
-    B --> C[감성·키워드 분석]
+    B --> C[감성 · 키워드 분석]
     C --> D[결과 데이터 가공]
     D --> E([📊 차트 시각화])
     classDef main fill:#10B981,stroke:#10B981,color:#fff
     class B,C,D main
 ```
 
-| | |
+| 구분 | 내용 |
 | :-- | :-- |
 | 🎯 **역할** | **프론트엔드, 백엔드, UI/UX** (기여도 70%) |
 | 🧰 **Stack** | `React` `Chart.js` · `Spring Boot` `Flask` · `KcELECTRA` `KoELECTRA NER` · `Kakao Login` `Naver Clova` |
 
-- 웰컴·메인·카테고리·상세·커뮤니티·로그인·챗봇·회원가입 전 페이지
-- Chart.js 시각화 — 키워드 랭킹, 긍정·부정 분석, 리뷰 하이라이팅
+- 웰컴 · 메인 · 카테고리 · 상세 · 커뮤니티 · 로그인 · 챗봇 · 회원가입 전 페이지
+- Chart.js 시각화 — 키워드 랭킹, 긍정 · 부정 분석, 리뷰 하이라이팅
 
 > [!WARNING]
 > **문제 · 원인** &nbsp; axios로 전달한 데이터가 시각화에 쓰이지 못함 — 요청/응답 구조 불일치, 시각화용 가공 미흡
@@ -267,13 +310,13 @@ flowchart LR
     <td width="50%" valign="top">
       <b>🗺 블로그 여행데이터 기반 AI 여행지 추천</b><br/>
       <sub><code>2025.08</code> · 4인 · 프론트엔드</sub><br/><br/>
-      블로그 크롤링·임베딩(OpenAI)으로 여행 성향을 분석해 여행지·코스를 추천. 성향 분석 폼, 카드 결과 UI, KakaoMap 상세, Protected Routes 담당.<br/><br/>
+      블로그 크롤링 · 임베딩(OpenAI)으로 여행 성향을 분석해 여행지 · 코스를 추천. 성향 분석 폼, 카드 결과 UI, KakaoMap 상세, Protected Routes 담당.<br/><br/>
       <a href="https://github.com/jingeunlee4559/miniproject2">Repository →</a>
     </td>
     <td width="50%" valign="top">
       <b>🧳 혼행족 여행 동행자 추천</b><br/>
       <sub><code>2023.12 – 2024.01</code> · 4인 · 프론트엔드/백엔드</sub><br/><br/>
-      설문 데이터로 비슷한 동행자를 추천·매칭. 로그인, 메인 슬라이더, 지도(커스텀 오버레이), 리뷰 페이지 담당.<br/><br/>
+      설문 데이터로 비슷한 동행자를 추천 · 매칭. 로그인, 메인 슬라이더, 지도(커스텀 오버레이), 리뷰 페이지 담당.<br/><br/>
       <a href="https://github.com/2023-SMHRD-IS-AI1/WithusRepo">Repository →</a>
     </td>
   </tr>
@@ -287,20 +330,22 @@ flowchart LR
     <td width="50%" valign="top">
       <b>☕ 카페 좌석 예약 웹 (Camomile)</b> 🏆<br/>
       <sub><code>2022.10 – 11</code> · 4인 · 프론트엔드 · 우수상</sub><br/><br/>
-      동네 카페 좌석 예약·주문·지도 확인 서비스. 로그인, 카카오맵(마커 + 커스텀 오버레이) 담당.<br/><br/>
+      동네 카페 좌석 예약 · 주문 · 지도 확인 서비스. 로그인, 카카오맵(마커 + 커스텀 오버레이) 담당.<br/><br/>
       <a href="https://github.com/2022-SMHRD-SW-BigData-1/Camomile">Repository →</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <b>🌤 개인 포트폴리오 웹사이트</b> <sub>· 2025.06 – · 1인 개발</sub><br/><br/>
-      React · Vite · Tailwind, 라이트/다크 모드, 프로젝트 상세창(역할·문제 해결·기술 선택 이유·결과), Firebase Firestore 실시간 방명록, Vercel CI/CD, SEO 메타태그.<br/><br/>
+      React · Vite · Tailwind, 라이트/다크 모드, 프로젝트 상세창(역할 · 문제 해결 · 기술 선택 이유 · 결과), Firebase Firestore 실시간 방명록, Vercel CI/CD, SEO 메타태그.<br/><br/>
       <a href="https://myportfolio-steel-delta.vercel.app/">Live Site →</a> &nbsp;·&nbsp; <a href="https://github.com/jingeunlee4559/myportfolio">Repository →</a>
     </td>
   </tr>
 </table>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🏆 Awards
 
@@ -315,6 +360,8 @@ flowchart LR
 </table>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎓 Education
 
@@ -336,9 +383,9 @@ flowchart LR
 
 **문제를 정의하고, 구조를 설계하며, 끝까지 완성도를 책임지는 개발자 이진근입니다.**
 
-<a href="mailto:wlsrms4559@gmail.com"><img src="https://img.shields.io/badge/wlsrms4559@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://myportfolio-steel-delta.vercel.app/"><img src="https://img.shields.io/badge/myportfolio--steel--delta.vercel.app-2F8CFF?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="mailto:wlsrms4559@gmail.com"><img src="https://img.shields.io/badge/wlsrms4559@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://myportfolio-steel-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F8CFF?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8CFF,50:5A6CFF,100:8B5CF6&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
